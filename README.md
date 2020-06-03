@@ -5,7 +5,7 @@
     <img src="https://raw.githubusercontent.com/dev-league/RESTful-API-PHP/master/assets/dist/img/logo.jpeg" alt="Logo">
   </a>
 
-  <h1 align="center"> MVC standard structure with PHP</h3>
+  <h1 align="center"> RESTful standard structure with PHP</h3>
 </p>
 
 This repository contains the basic structure for the development of RESTful API in the php language.
